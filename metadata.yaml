@@ -1,0 +1,46 @@
+_repo: The-Odes-of-Anacreon_38230
+_version: 0.1.0
+alternative_title: Anacreontea. English
+contributor:
+  illustrator:
+    agent_name: Girodet-Trioson, Anne-Louis
+    aliases:
+    - Roussy, Anne-Louis Girodet de
+    - Girodet-Trioson, Anne Louis Girodet de Roussy, known as
+    - Roucy, Anne-Louis Girodet de
+    birthdate: 1767
+    deathdate: 1824
+    gutenberg_agent_id: '39320'
+    url: http://www.gutenberg.org/2009/agents/39320
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, Thomas
+    aliases:
+    - Brown, Thomas, the younger
+    - Little, Thomas
+    - Moore, Tom
+    - Moore, Anacreon
+    birthdate: 1779
+    deathdate: 1852
+    gutenberg_agent_id: '2185'
+    url: http://www.gutenberg.org/2009/agents/2185
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Moore
+description: ''
+gutenberg_issued: '2011-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38230'
+  lccn: '96220004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Anacreon -- Parodies, imitations, etc.'
+- !lcsh 'Greek poetry -- Translations into English'
+title: The Odes of Anacreon
+url: http://www.gutenberg.org/ebooks/38230
